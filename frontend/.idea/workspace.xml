@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6527f871-6945-47f5-93ca-75c906639ed9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/add_chat/icons8-add-to-chat-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/add_chat/icons8-add-to-chat-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/add_chat/icons8-add-to-chat-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/chat_icon/icons8-chat-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/chat_icon/icons8-chat-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/chat_icon/icons8-chat-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/clip_icon/icons8-clip-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/clip_icon/icons8-clip-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/crazy_icon/icons8-crazy-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/crazy_icon/icons8-crazy-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/current_logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/home_page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/home_page_opened_chat_MESSAGE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/home_page_opened_chat_NO_MESSAGE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/home_page_profile_open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/left_icon/icons8-left-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/left_icon/icons8-left-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/left_icon/icons8-pen-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/left_icon/icons8-pen-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/left_icon/icons8-pen-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/microphone_icon/icons8-microphone-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/microphone_icon/icons8-microphone-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/search_icon/icons8-search-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/search_icon/icons8-search-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/search_icon/icons8-search-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/settings_icon/icons8-settings-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/settings_icon/icons8-settings-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/settings_icon/icons8-settings-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/status.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/status_icon/icons8-status-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/status_icon/icons8-status-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/status_playing_status.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_used/user_icon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/frontend/Clubs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/frontend/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/frontend/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/frontend/charles/Charles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/frontend/charles/charles.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/frontend/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/frontend/hello.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2d2JGicqBJrS5pUdJ9uykLyRXrk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.HelloApplication.executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/projects/javaaa/Projo"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Githubs\club_app\frontend\src\main\resources\org\example\frontend" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.example.frontend.HelloApplication" />
+      <module name="frontend" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6527f871-6945-47f5-93ca-75c906639ed9" name="Changes" comment="" />
+      <created>1709200147688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709200147688</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

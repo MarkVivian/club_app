@@ -1,23 +1,17 @@
-package org.example.frontend;
+package org.example.projo;
 
 public class Clubs {
 
     public static String name;
     public static String message;
-    public static String imagePath;
 
-    public Clubs() {
+    public Clubs(){
         this.name = "";
         this.message = "";
-        this.imagePath = "";
     }
-
-    public Clubs (String name , String message, String imagePath ) {
-
+    public Clubs(String name, String message){
         this.name = name;
         this.message = message;
-        this.imagePath = imagePath;
-
     }
 
     public static String getName() {
@@ -35,14 +29,4 @@ public class Clubs {
     public static void setMessage(String message) {
         Clubs.message = message;
     }
-
-    public static String getImagePath() {
-        return imagePath;
-    }
-
-    public static void setImagePath(String imagePath) {
-        Clubs.imagePath = imagePath;
-    }
-
-
 }
