@@ -12,8 +12,8 @@ CREATE TABLE student_info (
 
 CREATE TABLE club_info (
   club_ID INTEGER PRIMARY KEY AUTO_INCREMENT,
-  club_name TEXT,
-  club_description TEXT,
+    club_name TEXT,
+    club_description TEXT,
   club_president INTEGER,
   FOREIGN KEY (club_president) REFERENCES student_info(student_ID)
 );
