@@ -32,8 +32,9 @@ public class api_handler implements HttpHandler {
         os.close();
     }
 
+
     public void getMssg(HttpExchange exchange) throws IOException {
-        if ("GET".equals(exchange.getRequestMethod())) {
+        if ("POST".equals(exchange.getRequestMethod())) {
             // Read the request body (if present)
             InputStream is = exchange.getRequestBody();
 
