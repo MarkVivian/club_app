@@ -49,7 +49,7 @@ public class api_handler implements HttpHandler {
 
                 db.readFromDatabase(
                         "message_info",
-                        new String[]{"club_ID", "message_text", "timestamp"},
+                        new String[]{"club_ID", "message_text"},
                         Integer.parseInt(club_ID),
                         "specific"
 
@@ -87,7 +87,7 @@ public class api_handler implements HttpHandler {
                 database_connection db = new database_connection();
                 db.readFromDatabase(
                         "club_info",
-                        new String[]{"club_name","club_description"},
+                        new String[]{"club_ID", "club_name","club_description"},
                         1, // not important since its in normal mode
                         "normal"
                 );
