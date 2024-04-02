@@ -11,6 +11,8 @@ public class Main {
             server.createContext("/getMssg", new api_handler()::getMssg);
             server.createContext("/storeMssg", new api_handler()::storeMssg);
             server.createContext("/getChats", new api_handler()::getChats);
+            server.createContext("/addUsers", new api_handler()::addUsers);
+            server.createContext("/getUsers", new api_handler()::getUsers);
 
             server.start();
             System.out.println("server is running on port 8081");

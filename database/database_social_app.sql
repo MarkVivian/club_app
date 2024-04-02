@@ -5,9 +5,7 @@ USE social_app;
 CREATE TABLE student_info (
   student_ID INTEGER PRIMARY KEY AUTO_INCREMENT,
   student_name TEXT,
-  student_password TEXT,
-  student_email TEXT,
-  student_phone_number TEXT
+  student_password TEXT
 );
 
 CREATE TABLE club_info (
@@ -39,11 +37,11 @@ CREATE TABLE message_info(
 );
 
 -- Insert fake data into student_info table
-INSERT INTO student_info (student_name, student_password, student_email, student_phone_number)
+INSERT INTO student_info (student_name, student_password)
 VALUES 
-    ('John Doe', 'password123', 'john.doe@example.com', '123-456-7890'),
-    ('Jane Smith', 'pass1234', 'jane.smith@example.com', '987-654-3210'),
-    ('Mike Johnson', 'abc123', 'mike.johnson@example.com', '456-789-0123');
+    ('John Doe', 'password123'),
+    ('Jane Smith', 'pass1234'),
+    ('Mike Johnson', 'abc123');
 
 -- Insert fake data into club_info table
 INSERT INTO club_info (club_name, club_description, club_president)

@@ -17,8 +17,8 @@ public class database_connection {
         // Define the database connection details.
         String url = "jdbc:mysql://localhost:3306/social_app";
         String username = "root";
-        //String password = "1234";
-        String password = "1319Rip@#";
+        String password = "1234";
+        //String password = "1319Rip@#";
 
         // Add the MySQL JDBC driver to the classpath.
         try {
